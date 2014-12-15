@@ -30,6 +30,7 @@ class Guess(object):
         <input type="text" value="enter password" name="password">
         <input type="submit" value="Send">
         </form>
+
         """
     #@+node:lee.20141207235250.53: *3* def check
     @cherrypy.expose
